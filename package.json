@@ -55,6 +55,7 @@
   "dependencies": {
     "babel-plugin-transform-runtime": "~6.23.0",
     "lodash.get": "~4.4.2",
+    "lodash.set": "~4.4.2",
     "prop-types": "~15.6.0"
   },
   "peerDependencies": {
